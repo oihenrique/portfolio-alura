@@ -60,9 +60,7 @@ body {
 }
 
 .button-center{
-    display: flex;
-    align-items: center;
-    margin-left: 230px;
+    text-align: center;
 }
 
 .button {
